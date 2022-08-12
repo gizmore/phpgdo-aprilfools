@@ -12,6 +12,9 @@ return [
 	'err_april_security_wrong' => 'Your security question may not exceed three uppercase ascii letters.',
 	'err_april_security_invalid' => 'Please choose a valid security question!',
 	'err_april_account_incoherent' => 'Your account may have encountered data loss!',
+	'err_april_malware' => 'Your network is recognized as a botnet. Method permitted!',
+	'err_april_cop' => 'You are a cop. We don\'t serve cops on public network.',
+	'err_april_hacker' => 'You are a hacker :O',
 	
 	# Teapot
 	'err_april_tea_too_cold' => 'The tea is cold!',
