@@ -53,6 +53,8 @@ final class Module_Aprilfools extends GDO_Module
 				return false;
 			case self::ALWAYS:
 				return true;
+			default:
+				return false;
 		}
 	}
 
